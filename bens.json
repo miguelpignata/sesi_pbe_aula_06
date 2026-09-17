@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "item": "Armário de duas portas",
+        "local": "Sala de aula 09",
+        "data": "2026-09-17",
+        "valor": "7000",
+        "patrimonio": "PT123"
+    },
+    {
+        "id": 2,
+        "item": "Geladeira elétrolux",
+        "local": "Sala de aula 09",
+        "data": "2026-09-09",
+        "valor": "9000",
+        "patrimonio": "PT456"
+    },
+    {
+        "id": 3,
+        "item": "Martelo de desentortar vidro",
+        "local": "Sala de aula 09",
+        "data": "2026-02-30",
+        "valor": "2400",
+        "patrimonio": "PT789"
+    }
+]
